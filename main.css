@@ -180,6 +180,9 @@ body > section {
 
 .navbar>.container .navbar-brand{
   margin-left: 0;
+}
+
+#logo{
   height:1.5em;
 }
 
