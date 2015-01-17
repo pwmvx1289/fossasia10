@@ -286,7 +286,7 @@ input.search-form:hover {
 }
 
 @media (max-width: 1200px; min-width: 1000px) {
-  .navbar {
+  #navibar {
     width:100%;
   }
 }
