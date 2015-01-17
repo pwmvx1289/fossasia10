@@ -285,7 +285,7 @@ input.search-form:hover {
   padding-bottom: 0;
 }
 
-@media (max-width: 1200px; min-width: 1000px) {
+@media (max-width: 1200px) and (min-width: 1000px) {
   #navibar {
     width:100%;
   }
