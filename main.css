@@ -14,9 +14,13 @@
   margin-top:1.5em;
 }
 
-.logo-s> .row{
+.logo-s > .row{
   height:100px;
   margin:10px 0;
+}
+
+.logo-s > .row > .col-md-2{
+  line-height:100px;
 }
 
 /*************************
