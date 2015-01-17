@@ -15,7 +15,9 @@
 }
 
 .logo-s{
-  height:100px;
+  line-height: 100px;
+  margin-top:20px; 
+  margin-left:0px;
 }
 
 
