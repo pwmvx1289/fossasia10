@@ -1770,7 +1770,7 @@ th, td
 .table-area .heading-five, 
 .table-area .heading-six, 
 .table-area .heading-seven {
-  margin-left: -10px
+  /*margin-left: -10px*/
 }
 
 
